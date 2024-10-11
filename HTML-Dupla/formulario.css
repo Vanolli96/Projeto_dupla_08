@@ -1,5 +1,7 @@
 
- 
+body{
+    background-color: rgb(194, 194, 202);
+}
     
 .container{
    
@@ -14,7 +16,7 @@
 .link-container{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(94, 136, 199);;
     /* margin-left: 20px; */
    
     border-radius: 1em;
@@ -46,4 +48,10 @@
     align-items:center;
     flex-direction:column
     
+}
+.foot{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(94, 136, 199)
 }

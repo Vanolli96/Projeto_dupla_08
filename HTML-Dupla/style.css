@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(194, 194, 202);
+}
+    
+.container{
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+   
+   
+
+}
+    
+.link-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(94, 136, 199);
+    /* margin-left: 20px; */
+    flex-direction:row;
+    border-radius: 1em;
+    min-height: 2em;
+    align-items: center;
+    font-size: 20px;
+}
+
+#historia{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(94, 136, 199)
+}
+
+.p1{
+    display: flex;
+    text-align:center;
+    font-size: 20px;
+}
+   
+    
+.img1{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#h22{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(94, 136, 199)
+}
+
+.nav1{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.foot{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(94, 136, 199)
+}
+
+.imgada{
+    width: 250px;
+    padding: 5px;
+    border: 2px solid #000;
+}
+.cripto{
+    
+    width: 250px;
+    padding: 5px;
+    border: 2px solid #000;
+}
+   
+  
+    
+
+  
+    
+    
+    
+    
+
+    
+
+/* #home{
+    display: flex;
+    color: rgb(8, 8, 206);
+    font-size: 20px;
+    margin-right: 15px;
+
+
+}
+    
+#Form{
+    display: flex;
+    color: rgb(8, 8, 206);
+    font-size: 20px;
+   */
+/* } */
+   
+ 
+    
+   
+    
+    
+ 

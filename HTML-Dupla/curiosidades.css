@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(194, 194, 202);
+}
+
+.container{
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+   
+   
+
+}
+
+.link-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(94, 136, 199);;
+    /* margin-left: 20px; */
+    flex-direction:row;
+    border-radius: 1em;
+    min-height: 2em;
+    align-items: center;
+    font-size: 20px;
+}
+.foot{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(94, 136, 199)
+}

@@ -1,4 +1,8 @@
    
+body{
+    background-color: rgb(194, 194, 202);
+}
+
 .container{
    
     display: flex;
@@ -16,7 +20,7 @@
 .link-container{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(94, 136, 199);
     /* margin-left: 20px; */
     flex-direction:row;
     border-radius: 1em;
@@ -27,6 +31,15 @@
     
    
 p:hover {
-    background-color: #85c4e9;
-    color: white;
+    background-color: #a0a9b3;
+    color: rgb(2, 2, 2);
+    font-size: 20px;
 }
+
+.foot{
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(94, 136, 199)
+}
+
