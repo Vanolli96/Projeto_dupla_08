@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Blog desenvolvido em dupla para testar os conhecimentos adquiridos durantes as aulas de Desenvolvimento WEB.<br>Colaboradores: Carlos Alberto e Daniela Sabino</p>
+<p align="left">Blog desenvolvido em dupla para testar os conhecimentos adquiridos durantes as aulas de Desenvolvimento WEB.<br>Colaboradores: Daniela Sabino e Carlos Alberto</p>
 
 ###
 
